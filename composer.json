@@ -1,5 +1,5 @@
 {
-  "name": "michaeldrennen/geonames",
+  "name": "ahathaway/geonames",
   "description": "A Laravel (php) package that interfaces with the geolocation services on geonames.org.",
   "type": "library",
   "license": "MIT",
@@ -14,7 +14,7 @@
     "ext-intl": "*",
     "ext-pdo": "*",
     "ext-curl": "*",
-    "laravel/framework": "^7.0 || ^8.0 || ^9.0",
+    "laravel/framework": "^7.0 || ^8.0 || ^9.0 || ^10.0",
     "michaeldrennen/remote-file": "^2.0",
     "michaeldrennen/local-file": "^2.0",
     "curl/curl": "^2.2",
